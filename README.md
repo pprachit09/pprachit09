@@ -1,0 +1,3 @@
+- 👋 Hi, I’m Prachit
+- 👀 I’m interested in working on any javascript related frameworks
+- 📫 contact me on pprachit09@gmail.com
